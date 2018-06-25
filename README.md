@@ -1,2 +1,2 @@
 ## Logistic regression from scratch
-Repo accompanying post on implementing logistic regression from scratch, and adding features crosses for nonlinearity.
+Repo accompanying [post](http://crawles.com/lr-scratch/) on implementing logistic regression from scratch, and on adding features crosses for nonlinearity.
